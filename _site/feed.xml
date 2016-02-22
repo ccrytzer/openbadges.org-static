@@ -4,10 +4,10 @@
     <title>OpenBadges</title>
     <description>Get recognition for learning that happens anywhere. Then share it on the places that matter. A digital badge is an online representation of a skill you’ve earned.
 </description>
-    <link>http://openbadges.org/</link>
-    <atom:link href="http://openbadges.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 11:35:38 -0800</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 11:35:38 -0800</lastBuildDate>
+    <link>http://openbadges.github.ioopenbadges.org-static/</link>
+    <atom:link href="http://openbadges.github.ioopenbadges.org-static/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Feb 2016 11:47:30 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 11:47:30 -0800</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 22 Feb 2016 09:39:46 -0800</pubDate>
-        <link>http://openbadges.org/jekyll/update/2016/02/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://openbadges.org/jekyll/update/2016/02/22/welcome-to-jekyll.html</guid>
+        <link>http://openbadges.github.ioopenbadges.org-static/jekyll/update/2016/02/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://openbadges.github.ioopenbadges.org-static/jekyll/update/2016/02/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
