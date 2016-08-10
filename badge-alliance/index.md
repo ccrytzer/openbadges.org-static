@@ -80,6 +80,10 @@ Today:
 
 + The Badge Alliance has a new set of technical resources and committed partners to ensure the right and complete ecosystem is built to enable the use cases first outlined by Erin Knight’s team at Mozilla and its first collaborators in 2011. 
 
++ Built on the success of a three-year demonstration project, the [Cities of LRNG network](https://www.lrng.org/) now includes 12 U.S. cities. In an effort to close the growing divide between young people who have access to 21st century opportunities and those who don't, LRNG Cities combine in-school, out-of-school, employer-based, and online learning experiences for youth ages 13-24. LRNG's new digital platform connects youth to customized badge-enabled playlists and pathways for relevant learning experiences, resources, and events. 
+
+
+
 
 
 
