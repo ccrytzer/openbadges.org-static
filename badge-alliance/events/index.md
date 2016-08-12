@@ -24,14 +24,20 @@ Subscribe to the BA calendar to stay up-to-date on events in the Open Badges com
 
 Upcoming Events:
 
++ Southern California Open Badges Symposium, Irvine, CA: October 8, 2016
+ + (http://openbadgessymposium2016.eventbrite.com)
+ + One-day advanced level symposium at the University of California Irvine, sponsored by the [UC Humanities Research Institute](https://uchri.org)
+ + Share knowledge, discuss challenges, and network with others in the field
+
 + ePIC 2016
  + [14th Conference, Bologna, Italy: October 27-29, 2016](http://www.openepic.eu)
  + Making learners and citizens the leaders of educational and social innovation
  + ePortfolios, Open Badges, Personal Ledgers, Identities, Trust, Blockchains
  + #openepic
  
-+ Mozfest 2016, London: October 28-30
- + Mozilla’s annual festival celebrating the open web
++ Mozfest 2016, Ravensbourne, London: October 28-30, 2016
+ + (https://mozillafestival.org/)
+ + "Demystify the Web!” - Mozilla’s annual festival celebrating the open web
  + Questions about the development of the program for this year's festival or themes/ideas you'd like to put forward, [email Mozilla] (festival@mozilla.org)
 
  
